@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         
-        <h1>Hello Wolrd</h1>
+        <h1>Hello Wolrd 2</h1>
        
     </body>
 </html>
